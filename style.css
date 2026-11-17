@@ -1,0 +1,3 @@
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:720px;margin:40px auto;padding:0 20px;line-height:1.55;color:#1c1c1e}
+h1{font-size:1.8rem}h2{font-size:1.2rem;margin-top:2rem}a{color:#C2410C}.muted{color:#636366;font-size:.9rem}
+@media (prefers-color-scheme:dark){body{background:#000;color:#f2f2f7}a{color:#FB923C}.muted{color:#aeaeb2}}
